@@ -1,0 +1,16 @@
+{
+  "name": "get_no_of_workingdays",
+  "version": "1.0.6",
+  "description": "get number of working days based on days per week",
+  "main": "index.js",
+  "keywords": [
+    "number_of_working_days",
+    "get_number_of_working_days",
+    "working_days_based_on_weekdays",
+    "numberofworkingdays",
+    "workingdays"
+    
+  ],
+  "author": "Pradep",
+  "license": "ISC"
+}
